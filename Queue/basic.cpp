@@ -24,7 +24,7 @@ public:
         Node* newNode = new Node(val);
 
         if (head == nullptr) {
-            // List is empty
+            // List
             head = tail = newNode;
         } else {
             // Add to end
