@@ -58,5 +58,6 @@ int main(){
     st.push(30);
     st.push(40);
     st.pop();
+    st.pop();
     st.display();
 }
